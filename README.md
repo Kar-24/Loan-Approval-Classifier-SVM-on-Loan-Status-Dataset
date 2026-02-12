@@ -1,4 +1,4 @@
-# Loan Approval Classifier — SVM on Loan Status Dataset
+# Loan Approval Classifier-SVM on Loan Status Dataset
 
 ## Short description
 
@@ -6,8 +6,8 @@ SVM-based loan approval classifier built from the `loan_status.csv` dataset. The
 
 ## Files
 
-- `LoanStatus.ipynb` — Jupyter notebook with the full workflow.
-- `loan_status.csv` — dataset used by the notebook.
+- `LoanStatus.ipynb`-Jupyter notebook with the full workflow.
+- `loan_status.csv`-dataset used by the notebook.
 
 ## Notebook overview
 
@@ -20,7 +20,7 @@ SVM-based loan approval classifier built from the `loan_status.csv` dataset. The
 
 ## How to run
 
-1. Create (or activate) a Python environment and install dependencies:
+1. Create a Python environment and install dependencies:
 
 ```bash
 python -m venv .venv
